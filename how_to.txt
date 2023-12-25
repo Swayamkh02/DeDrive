@@ -1,0 +1,7 @@
+npm install hardhat; npm install --save-dev hardhat@2.12.4 ;
+npx hardhat;
+npm install --save-dev "hardhat@^2.12.4" "@nomicfoundation/hardhat-toolbox@^2.0.0" 
+npx create-react-app client ;
+npm install ethers@5.7
+npm install axios
+npx hardhat run scripts/deploy.js --network hardhat
